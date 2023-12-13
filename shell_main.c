@@ -5,7 +5,7 @@
  * @argv: The command line arguments
  * Return: Always 0 (Success)
  */
-
+int main(int ac, char **argv);
 int main(int ac, char **argv)
 {
 	char *input = NULL, **command = NULL;
