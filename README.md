@@ -1,1 +1,1 @@
-Our project in simple shell
+This is our project in simple shell using C language 
